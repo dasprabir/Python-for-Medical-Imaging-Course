@@ -20,6 +20,17 @@ Python Libraries Used
 
 pydicom, nibabel, imageio, matplotlib, PIL, numpy, opencv-python
 
+medical-imaging-course/
+├── notebooks/
+│   ├── dicom_basics.ipynb
+│   ├── image_processing.ipynb
+│   └── nifti_visualization.ipynb
+├── images/
+│   └── sample_ct.dcm
+├── README.md
+└── requirements.txt
+
+
 Image Processing Techniques
 
 Image transformations: resizing, cropping, rotation
